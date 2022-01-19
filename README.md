@@ -5,4 +5,3 @@
 
 YT demo: <a href='https://www.youtube.com/watch?v=ypF47AsyO2w'>YouTube demo here</a>
 
-Contact e-mail: vito.medved12@gmail.com <br> (<a href="mailto:vito.medved12@gmail.com?Subject=Joint%20Tracking%20Info" target="_top">Send Mail</a>)
